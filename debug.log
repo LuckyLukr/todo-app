@@ -1,0 +1,2 @@
+[0105/212040.694:ERROR:directory_reader_win.cc(43)] FindFirstFile: Systém nemùže nalézt uvedenou cestu. (0x3)
+[0105/213932.724:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
